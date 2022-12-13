@@ -9,6 +9,10 @@
 **Install requirements**
 
   - pip install -r requirements.txt
+  
+**Give permissions**
+
+  - chmod 755 convert.py 
 
 **Command examples**
 
